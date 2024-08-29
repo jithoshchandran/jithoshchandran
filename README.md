@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jithoshchandran
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning & learning...
+- 🌱 I’m currently coding & learning...
 - 📫 Reach me @ jithoshphp@gmail.com 
 
 <!---
